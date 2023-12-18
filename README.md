@@ -1,6 +1,6 @@
-# Dev-TaskRework
+# Dev-TaskRework [OLD_README]
 
-[OLD_README] ~Tasks given by "Edouard Renard"
+~Tasks given by "Edouard Renard"
 
 Software Engineer and Robotics Teacher
 
