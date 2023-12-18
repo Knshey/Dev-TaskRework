@@ -19,6 +19,8 @@ These are only exercise codes for practice.
 
 -This will be the last review- LOL
 
+code sintax = 
+
 code{
     // WORK NOTE 
 
