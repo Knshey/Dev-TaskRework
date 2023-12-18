@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 
-constexpr int vectorList(std::vector<int>&input);
+int vectorList(std::vector<int>&input);
 
 int main( void ){
 
@@ -16,7 +16,7 @@ int main( void ){
     std::cout<<"Max value is = "<< maxValue << std::endl;
 }
 
-constexpr int vectorList(std::vector<int>& input){
+int vectorList(std::vector<int>& input){
     int ifbased {0};
 
     for(auto& iteration : input){
