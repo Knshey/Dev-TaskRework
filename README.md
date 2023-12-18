@@ -14,7 +14,6 @@ Now we just need to complete series 4 through 5
 
 Thanks 4 see this.. If you are a more advanced connoisseur of the language... It would be very helpful if you evaluated my code and see how I'm doing~!&
 
-
 ==============================================================================
 
 [NOTE] ~17/12/23
