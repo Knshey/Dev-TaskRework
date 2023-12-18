@@ -1,4 +1,4 @@
-// 3.1 ~Compute the max value inside a list of numbers
+// 3.1 ~Compute the max value inside a list of numbers [Code: Vector_Task]
 
 #include <iostream>
 #include <vector>
@@ -11,7 +11,7 @@ int main( void ){
     // Ideal return program cout is -> "4"
     
     int (*pOinter)(std::vector<int>&) = {vectorList};
-    int maxValue = {pOinter(test_input)};
+    const int maxValue = {pOinter(test_input)};
 
     std::cout<<"Max value is = "<< maxValue << std::endl;
 }
