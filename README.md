@@ -1,4 +1,5 @@
 # Dev-TaskRework
+
 [OLD_README] ~Tasks given by "Edouard Renard"
 
 Software Engineer and Robotics Teacher
@@ -13,18 +14,23 @@ Now we just need to complete series 4 through 5
 
 Thanks 4 see this.. If you are a more advanced connoisseur of the language... It would be very helpful if you evaluated my code and see how I'm doing~!&
 
+======================================================================================================================
+
 [NOTE] ~17/12/23
 
 These are only exercise codes for practice.
 
--This will be the last review- LOL
+- This will be the last review of this tasks. LOL
 
-code sintax = 
+code.cpp sintax{
 
-code{
-    // WORK NOTE 
-
-    // code and code and code....
+    // Task Info
+    //
+    // Code and Code
+    //
+    // Shit stuff
 }
 
-Foldier "Sawce_Code" -> "SourceCode[ number in order ] "   / khshyy.
+- Foldier "Sawce_Code" -> "SourceCode[ number in order ] "   / khshyy.
+
+======================================================================================================================
