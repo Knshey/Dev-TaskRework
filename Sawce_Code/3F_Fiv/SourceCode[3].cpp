@@ -12,7 +12,7 @@ int main( void ){
 
     int (*p)(const std::vector<int>&) = {maxValueVector};
 
-    int maxValue = {p(vectorInput)};
+    const int maxValue = {p(vectorInput)};
 
     std::cout<<"Max value is = "<< maxValue << std::endl;
 }
@@ -20,7 +20,10 @@ int main( void ){
 void vectorUserInput(std::vector<int>& vector_reference){
     
     bool userStatus {true};
+
     int userInput {};
+    // Value of "userInput" is 0
+
     std::cout<<"Give data towards the vector = ";
 
     while( userStatus == true){
@@ -32,17 +35,17 @@ void vectorUserInput(std::vector<int>& vector_reference){
             userStatus = false;
         }
     }
-
 }
 
 int maxValueVector(const std::vector<int>& finalVector_reference){
     
-    int testingValue {0};
+    int testingValue {};
+    // the value of "testingValue" is 0
+
     for(auto& iterationBased : finalVector_reference){
         if( iterationBased > testingValue ){
             testingValue = iterationBased;
         }
     }
-
     return testingValue;
 }
