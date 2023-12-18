@@ -6,7 +6,8 @@ Software Engineer and Robotics Teacher
 
 Now we just need to complete series 4 through 5
 
-[Exercises] 3.1 ~Compute the max value inside a list of numbers
+[Exercises] 
+3.1 ~Compute the max value inside a list of numbers
 
 3.2 ~Create an empty list, ask the user to give 5 numbers, and print the max value 
 
