@@ -14,7 +14,7 @@ int main( void ){
 
     int (*pointer)(const std::vector<int>&) = {maxValueVector};
 
-    int maxValue = {pointer(input)};
+    const int maxValue = {pointer(input)};
 
 
     std::cout<<"Max Value on the vector is = " << maxValue << std::endl;
